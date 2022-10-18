@@ -20,7 +20,7 @@ public:
             /*
                 now we check if difference is equal to current item of nums
                 so if this item frequency more than one (correct answer)
-                otherwise (wrong answer)
+                otherwise (wrong answer) so we continue this step
             */
             if (diff == nums[i])
             {

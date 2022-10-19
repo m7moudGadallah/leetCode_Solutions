@@ -11,3 +11,4 @@
 |[205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Link](https://github.com/m7moudGadallah/leetCode_Solutions/blob/main/Hash_Table/205-Isomorphic_Strings.cpp)|
 |[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Link](https://github.com/m7moudGadallah/leetCode_Solutions/blob/main/Hash_Table/242-Valid_Anagam.cpp)|
 |[202. Happy Number](https://leetcode.com/problems/happy-number/)|[Link](https://github.com/m7moudGadallah/leetCode_Solutions/blob/main/Hash_Table/202-Happy_Number.cpp)|
+|[349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Link](https://github.com/m7moudGadallah/leetCode_Solutions/blob/main/Hash_Table/349-Intersection_Of_Two_Arrays.cpp)|

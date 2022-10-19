@@ -10,3 +10,4 @@
 |[961. N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|[Link](https://github.com/m7moudGadallah/leetCode_Solutions/blob/main/Hash_Table/961-N_Repeated_Element_in_size_2N_Array.cpp)|
 |[205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Link](https://github.com/m7moudGadallah/leetCode_Solutions/blob/main/Hash_Table/205-Isomorphic_Strings.cpp)|
 |[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Link](https://github.com/m7moudGadallah/leetCode_Solutions/blob/main/Hash_Table/242-Valid_Anagam.cpp)|
+|[202. Happy Number](https://leetcode.com/problems/happy-number/)|[Link](https://github.com/m7moudGadallah/leetCode_Solutions/blob/main/Hash_Table/202-Happy_Number.cpp)|

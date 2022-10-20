@@ -19,3 +19,4 @@
 |[383. Ransom Note](https://leetcode.com/problems/ransom-note/)|[Link](https://github.com/m7moudGadallah/leetCode_Solutions/blob/main/Hash_Table/383-Ransom_Note.cpp)|
 |[575. Distribute Candies](https://leetcode.com/problems/distribute-candies/)|[Link](575-Distribute_Candies.cpp)|
 |[771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Link](771-Jewels_and_Stones.cpp)|
+|[594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)|[Link](594-Longest_Harmonious_Subsequence.cpp)|

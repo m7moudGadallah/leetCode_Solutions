@@ -21,3 +21,4 @@
 |[771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Link](771-Jewels_and_Stones.cpp)|
 |[594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)|[Link](594-Longest_Harmonious_Subsequence.cpp)|
 |[290. Word Pattern](https://leetcode.com/problems/word-pattern/)|[Link](290-Word_Pattern.cpp)|
+|[389. Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Link](389-Find_the_difference.cpp)|

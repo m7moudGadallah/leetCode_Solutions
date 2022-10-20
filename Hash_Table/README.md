@@ -22,3 +22,4 @@
 |[594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)|[Link](594-Longest_Harmonious_Subsequence.cpp)|
 |[290. Word Pattern](https://leetcode.com/problems/word-pattern/)|[Link](290-Word_Pattern.cpp)|
 |[389. Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Link](389-Find_the_difference.cpp)|
+|[496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Link](496-Next_Greater_Element_I.cpp|

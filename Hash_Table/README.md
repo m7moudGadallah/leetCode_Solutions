@@ -16,3 +16,4 @@
 |[888. Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)|[Link](https://github.com/m7moudGadallah/leetCode_Solutions/blob/main/Hash_Table/888-Fair_Candy_Swap.cpp)|
 |[13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Link](https://github.com/m7moudGadallah/leetCode_Solutions/blob/main/Hash_Table/13-Roman_to_Integer.cpp)|
 |[884. Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/)|[Link](https://github.com/m7moudGadallah/leetCode_Solutions/blob/main/Hash_Table/884-Uncommon_Words_from_two_sentences.cpp)|
+|[383. Ransom Note](https://leetcode.com/problems/ransom-note/)|[Link](https://github.com/m7moudGadallah/leetCode_Solutions/blob/main/Hash_Table/383-Ransom_Note.cpp)|

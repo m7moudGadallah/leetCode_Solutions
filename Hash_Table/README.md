@@ -1,5 +1,5 @@
 # Hash Table
-- This repo has C++ solutions of some problems from leetcode
+- This repo has C++ solutions of some problems about `hash table` from from leetcode
 ## Easy
 |Problem|Solution|
 |-------|--------|

@@ -4,3 +4,4 @@
 |Problem|Solution|
 |-------|--------|
 |[2114. Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/)|[Link](2114-Maximum_Number_of_words_found_in_sentence.cpp)|
+|[412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Link](412-Fizz_Buzz.cpp)|

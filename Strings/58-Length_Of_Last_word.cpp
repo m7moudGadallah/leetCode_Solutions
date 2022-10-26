@@ -6,6 +6,9 @@ class Solution {
 public:
     int lengthOfLastWord(string s) {
         int n = (int) s.size();
+
+        if (s.rfind(' ') == string::npos)
+            return n;
         
         int i = n - 1;
 
@@ -15,8 +18,8 @@ public:
         int pos = s.rfind(' ', i);
 
         if (pos == string::npos)
-            return n;
+            return i + 1;
 
-        return n - pos - 1;
+        return i - pos;
     }
 };

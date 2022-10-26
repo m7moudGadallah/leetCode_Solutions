@@ -9,3 +9,4 @@
 |[1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)|[Link](1614-Maximum_Nesting_Depth_of_the_parenthess.cpp)|
 |[1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Link](1108-Deganging_an_IP_Address.cpp)|
 |[415. Add Strings](https://leetcode.com/problems/add-strings/)|[Link](415-Add_Strings.cpp)|
+|[14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Link](14-Longest_common_prefix.cpp)|

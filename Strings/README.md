@@ -8,4 +8,4 @@
 |[1684. Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[Link](1684-Count_the_Number_of_Consistent_Strings.cpp)|
 |[1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)|[Link](1614-Maximum_Nesting_Depth_of_the_parenthess.cpp)|
 |[1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Link](1108-Deganging_an_IP_Address.cpp)|
-|[415. Add Strings](https://leetcode.com/problems/add-strings/)|[Link](415-Add_Strings)|
+|[415. Add Strings](https://leetcode.com/problems/add-strings/)|[Link](415-Add_Strings.cpp)|

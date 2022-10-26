@@ -10,3 +10,4 @@
 |[1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Link](1108-Deganging_an_IP_Address.cpp)|
 |[415. Add Strings](https://leetcode.com/problems/add-strings/)|[Link](415-Add_Strings.cpp)|
 |[14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Link](14-Longest_common_prefix.cpp)|
+|[58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Link](58-Length_Of_Last_word.cpp)|

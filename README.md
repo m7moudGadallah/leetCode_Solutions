@@ -1,6 +1,6 @@
 # leetcode solutions
 
-<center><img src="https://github.com/m7moudGadallah/leetCode_Solutions/blob/main/leetcode.png?raw=true" width = 300px/></center>
+<p align="center"><img src="https://github.com/m7moudGadallah/leetCode_Solutions/blob/main/leetcode.png?raw=true" width = 300px/></p>
 
 ## Topics
 - ***[Hash Table](https://github.com/m7moudGadallah/leetCode_Solutions/tree/main/Hash_Table)***

@@ -18,3 +18,4 @@
 |[345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[Link](345-Reverse_vowels_of_a_string.cpp)|
 |[434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[Link](434-Number_Of_Segements_in_a_string.cpp)|
 |[459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[Link](459-Repeated_substring_Pattern.cpp)|
+|[482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|[Link](482-License_key_formatting.cpp)|

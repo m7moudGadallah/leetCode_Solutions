@@ -23,3 +23,10 @@
 |[521. Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/)|[Link](521-Longest_Uncommon_Subsequence_I.cpp)|
 |[551. Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)|[Link](551-Student_Attendance_Record_I.cpp)|
 |[696. Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)|[Link](696-Count_binary_substrings.cpp)|
+
+---
+
+## Medium
+|Problem|Solution|
+|-------|--------|
+|[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Link](49-Group_Anagrams.cpp)|

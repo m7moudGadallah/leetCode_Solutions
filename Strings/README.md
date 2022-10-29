@@ -30,3 +30,4 @@
 |Problem|Solution|
 |-------|--------|
 |[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Link](49-Group_Anagrams.cpp)|
+|[38. Count and Say](https://leetcode.com/problems/count-and-say/)|[Link](38-Count_And_Say.cpp)|

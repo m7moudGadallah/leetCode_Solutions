@@ -21,3 +21,4 @@
 |[482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|[Link](482-License_key_formatting.cpp)|
 |[520. Detect Capital](https://leetcode.com/problems/detect-capital/)|[Link](520-Detect_Capital.cpp)|
 |[521. Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/)|[Link](521-Longest_Uncommon_Subsequence_I.cpp)|
+|[551. Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)|[Link](551-Student_Attendance_Record_I.cpp)|

@@ -20,6 +20,7 @@
 |[697. Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)|[Link](697-Degree_of_an_Array.cpp)|
 |[119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Link](119-Pascals_triangle_II.cpp)|
 |[485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Link](485-Max_Consecutive_One.cpp)|
+|[1089. Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Link](1089-Duplicate_zeros.cpp)|
 
 ---
 

@@ -10,3 +10,4 @@
 |[682. Baseball Game](https://leetcode.com/problems/baseball-game/)|`string` `stack`|[Link](682-Baseball_game.cpp)|
 |[1700. Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)|`queue`|[Link](1700-Number_of_Sutdents_Unable_to_Eat_Lunch.cpp)|
 |[2073. Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/)|`queue`|[Link](2073-Time-Needed_To_Buy_Tickets.cpp)|
+|[387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|`hash table` `queue`|[Link](387-First_Unique_character_in_a_string.cpp)|

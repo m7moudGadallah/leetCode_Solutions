@@ -32,3 +32,4 @@
 |Problem|Solution|
 |-------|--------|
 |[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Link](238-Product_of_array_except_self.cpp)|
+|[153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Link](153-Find_Minimum_in_Rotated_sorted_array.cpp)|

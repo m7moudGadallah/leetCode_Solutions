@@ -16,6 +16,7 @@
 |[766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)|[Link](766-Toeplitz_Matrix.cpp)|
 |[169. Majority Element](https://leetcode.com/problems/majority-element/)|[Link](169-Majority_Element.cpp)|
 |[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Link](283-Move_Zeroes.cpp)|
+|[448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Link](448-Find_All_numbers_disappeared_in_an_Array.cpp)|
 
 ---
 

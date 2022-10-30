@@ -21,6 +21,7 @@
 |[119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Link](119-Pascals_triangle_II.cpp)|
 |[485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Link](485-Max_Consecutive_One.cpp)|
 |[1089. Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Link](1089-Duplicate_zeros.cpp)|
+|[217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Link](217-Contains_Duplicate.cpp)|
 
 ---
 

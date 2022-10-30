@@ -4,5 +4,6 @@
 
 ## Topics
 - ***[Arrays](https://github.com/m7moudGadallah/leetCode_Solutions/tree/main/Arrays)***
-- ***[Hash Table](https://github.com/m7moudGadallah/leetCode_Solutions/tree/main/Hash_Table)***
 - ***[Strings](./Strings/)***
+- ***[Linear Data Structure](https://github.com/m7moudGadallah/leetCode_Solutions/tree/main/Linear_Data_Sturcture)*** `stack, queue, linked list`
+- ***[Hash Table](https://github.com/m7moudGadallah/leetCode_Solutions/tree/main/Hash_Table)***

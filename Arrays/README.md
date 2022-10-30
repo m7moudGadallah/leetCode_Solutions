@@ -14,7 +14,7 @@
 |[1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)|[Link](1200-Minimum_Absolute_Difference.cpp)|
 |[1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[Link](1351-Count_negative_numbers_in_a_sorted_matrix.cpp)|
 |[766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)|[Link](766-Toeplitz_Matrix.cpp)|
-
+|[169. Majority Element](https://leetcode.com/problems/majority-element/)|[Link](169-Majority_Element.cpp)|
 ---
 
 ## Medium

@@ -11,6 +11,7 @@
 |[1394. Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/)|[Link](1394-Find_lucky_integer_in_an_Array.cpp)|
 |[1266. Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)|[Link](1266-Minimum_time_visiting_all_points.cpp)|
 |[1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)|[Link](1572-Matrix_Diagonal_Sum.cpp)|
+|[1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)|[Link](1200-Minimum_Absolute_Difference.cpp)|
 
 ---
 

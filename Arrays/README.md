@@ -24,6 +24,7 @@
 |[217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Link](217-Contains_Duplicate.cpp)|
 |[118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Link](118-Pascals_Triangle.cpp)|
 |[136. Single Number](https://leetcode.com/problems/single-number/)|[Link](136-Single_number.cpp)|
+|[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Link](53-Maximum_Subarray.cpp)|
 
 ---
 

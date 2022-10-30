@@ -8,3 +8,4 @@
 |[1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/)|`string` `stack`|[Link](1047-Remove_all_adacent_duplicates_in_string.cpp)|
 |[1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)|`string` `stack`|[Link](1021-Remove_outermost_parentheses.cpp)|
 |[682. Baseball Game](https://leetcode.com/problems/baseball-game/)|`string` `stack`|[Link](682-Baseball_game.cpp)|
+|[1700. Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)|`queue`|[Link](1700-Number_of_Sutdents_Unable_to_Eat_Lunch.cpp)|

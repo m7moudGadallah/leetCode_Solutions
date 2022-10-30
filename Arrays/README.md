@@ -1,4 +1,4 @@
-# Strings
+# Arrays
 - This repo has C++ solutions of some problems about `Arrays` from from leetcode
 ## Easy
 |Problem|Solution|

@@ -12,6 +12,7 @@
 |[1266. Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)|[Link](1266-Minimum_time_visiting_all_points.cpp)|
 |[1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)|[Link](1572-Matrix_Diagonal_Sum.cpp)|
 |[1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)|[Link](1200-Minimum_Absolute_Difference.cpp)|
+|[1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[Link](1351-Count_negative_numbers_in_a_sorted_matrix.cpp)|
 
 ---
 

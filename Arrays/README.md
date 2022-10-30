@@ -7,6 +7,8 @@
 |[1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Link](1672-Richest_Customer_wealth.cpp)|
 |[1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|[Link](1464-Maximum_product_of_two_elements_in_an_array.cpp)|
 |[1260. Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/)|[Link](1260-Shift_2d_grid.cpp)|
+|[1413. Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)|[Link](1413-Minimum_value_to_get_positive_step_by_step_sum.cpp)|
+
 
 ---
 

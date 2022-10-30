@@ -23,6 +23,7 @@
 |[1089. Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Link](1089-Duplicate_zeros.cpp)|
 |[217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Link](217-Contains_Duplicate.cpp)|
 |[118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Link](118-Pascals_Triangle.cpp)|
+|[136. Single Number](https://leetcode.com/problems/single-number/)|[Link](136-Single_number.cpp)|
 
 ---
 

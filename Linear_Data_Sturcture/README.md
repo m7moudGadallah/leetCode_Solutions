@@ -17,3 +17,4 @@
 |[876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|`linked list` `two pointers`|[Link](876-Middle_of_the_linked_list.cpp)|
 |[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|`linked list`|[Link](206-Reverse_Linked_List.cpp)|
 |[1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|`linked list` `math`|[Link](1290-Convert_Binary_Number_in_a_Linked_List_to_integer.cpp)|
+|[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|`linked list`|[Link](21-Merge_Two_Sorted_Lists.cpp)|

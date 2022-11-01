@@ -15,3 +15,4 @@
 |[232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|`queue` `stack`|[Link](232-Implement_Queue_using_stacks.cpp)|
 |[203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|`linked list`|[Link](203-Remove_Linked_list_elements.cpp)|
 |[876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|`linked list` `two pointers`|[Link](876-Middle_of_the_linked_list.cpp)|
+|[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|`linked list`|[Link](206-Reverse_Linked_List.cpp)|

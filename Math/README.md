@@ -9,3 +9,4 @@
 |[66. Plus One](https://leetcode.com/problems/plus-one/)|[Link](Solutions/66-plus_one.cpp)|
 |[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Link](Solutions/70-Climbing_Stairs.cpp)|
 |[231. Power of Two](https://leetcode.com/problems/power-of-two/)|[Link](Solutions/231-Power_Of_Two.cpp)|
+|[202. Happy Number](https://leetcode.com/problems/happy-number/)|[Link](Solutions/202-Happy_Number.cpp)|

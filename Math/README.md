@@ -10,3 +10,4 @@
 |[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Link](Solutions/70-Climbing_Stairs.cpp)|
 |[231. Power of Two](https://leetcode.com/problems/power-of-two/)|[Link](Solutions/231-Power_Of_Two.cpp)|
 |[202. Happy Number](https://leetcode.com/problems/happy-number/)|[Link](Solutions/202-Happy_Number.cpp)|
+|[1837. Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/)|[Link](Solutions/1837-Sum_of_Digits_in_base_k.cpp)|

@@ -24,3 +24,4 @@
 |Problem|tag|Solution|
 |-------|---|--------|
 |[155. Min Stack](https://leetcode.com/problems/min-stack/)|`stack`|[Link](155-Min_Stack.cpp)|
+|[150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|`stack` `math`|[Link](150-Evaluate_Reverse_Polish_Notion.cpp)|

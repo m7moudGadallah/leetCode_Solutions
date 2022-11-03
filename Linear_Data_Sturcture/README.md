@@ -21,3 +21,6 @@
 |[1598. Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)|`string` `stack`|[Link](1598-Crawler_Log_Folder.cpp)|
 ---
 ## Medium
+|Problem|tag|Solution|
+|-------|---|--------|
+|[155. Min Stack](https://leetcode.com/problems/min-stack/)|`stack`|[Link](155-Min_Stack.cpp)|

@@ -28,3 +28,4 @@
 |[950. Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)|`queue` `sorting`|[Link](950-Reveal_cards_in_increasing_order.cpp)|
 |[1823. Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)|`queue` `math`|[Link](1823-Find_the_Winner_of_the_Circular_game.cpp)|
 |[19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|`linked list` `two pointers`|[Link](19-Revmove_Nth_node_from_end_of_list.cpp)|
+|[328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|`linked list`|[Link](328-Odd_even_linked_list.cpp)|

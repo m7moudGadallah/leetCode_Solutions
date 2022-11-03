@@ -25,3 +25,4 @@
 |-------|---|--------|
 |[155. Min Stack](https://leetcode.com/problems/min-stack/)|`stack`|[Link](155-Min_Stack.cpp)|
 |[150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|`stack` `math`|[Link](150-Evaluate_Reverse_Polish_Notion.cpp)|
+|[950. Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)|`queue` `sorting`|[Link](950-Reveal_cards_in_increasing_order.cpp)|

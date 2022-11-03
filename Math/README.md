@@ -13,3 +13,4 @@
 |[1837. Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/)|[Link](Solutions/1837-Sum_of_Digits_in_base_k.cpp)|
 |[509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Link](Solutions/509-Fibonacci_Number.cpp)|
 |[1025. Divisor Game](https://leetcode.com/problems/divisor-game/)|[Link](Solutions/1025-Divisor_Game.cpp)|
+|[908. Smallest Range I](https://leetcode.com/problems/smallest-range-i/)|[Link](solutions/../Solutions/908-Smallest_Range_I.cpp)|

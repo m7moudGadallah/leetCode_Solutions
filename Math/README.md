@@ -16,3 +16,4 @@
 |[908. Smallest Range I](https://leetcode.com/problems/smallest-range-i/)|[Link](Solutions/908-Smallest_Range_I.cpp)|
 |[812. Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/)|[Link](Solutions/812-Largest_Triangle_Area.cpp)|
 |[1360. Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/)|[Link](Solutions/1360-Number_of_Days_Between_Two_Dates.cpp)|
+|[367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[Link](Solutions/367-Valid_Prefect_Square.cpp)|

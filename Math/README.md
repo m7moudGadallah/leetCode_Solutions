@@ -18,3 +18,4 @@
 |[1360. Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/)|[Link](Solutions/1360-Number_of_Days_Between_Two_Dates.cpp)|
 |[367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[Link](Solutions/367-Valid_Prefect_Square.cpp)|
 |[1232. Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)|[Link](Solutions/1232-Check_If_It_Is_a_Stright_Line.cpp)|
+|[168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[Link](Solutions/168-Excel_Sheet_Column_Title.cpp)|

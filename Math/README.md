@@ -19,3 +19,4 @@
 |[367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[Link](Solutions/367-Valid_Prefect_Square.cpp)|
 |[1232. Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)|[Link](Solutions/1232-Check_If_It_Is_a_Stright_Line.cpp)|
 |[168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[Link](Solutions/168-Excel_Sheet_Column_Title.cpp)|
+|[292. Nim Game](https://leetcode.com/problems/nim-game/)|[Link](Solutinos/../Solutions/292-Nim_Game.cpp)|

@@ -22,3 +22,4 @@
 |[292. Nim Game](https://leetcode.com/problems/nim-game/)|[Link](Solutions/292-Nim_Game.cpp)|
 |[405. Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)|[Link](Solutions/405-Convert_a_Number_to_Hexadecimal.cpp)|
 |[492. Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)|[Link](Solutions/492-Construct_The_Rectangle.cpp)|
+|[326. Power of Three](https://leetcode.com/problems/power-of-three/)|[Link](Solutions/326-Power_or_three.cpp)|

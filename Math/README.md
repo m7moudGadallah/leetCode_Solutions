@@ -21,3 +21,4 @@
 |[168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[Link](Solutions/168-Excel_Sheet_Column_Title.cpp)|
 |[292. Nim Game](https://leetcode.com/problems/nim-game/)|[Link](Solutions/292-Nim_Game.cpp)|
 |[405. Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)|[Link](Solutions/405-Convert_a_Number_to_Hexadecimal.cpp)|
+|[492. Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)|[Link](Solutions/492-Construct_The_Rectangle.cpp)|

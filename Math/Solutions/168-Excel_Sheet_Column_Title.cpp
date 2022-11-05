@@ -18,11 +18,3 @@ public:
         return ans;
     }
 };
-
-int main() {
-    Solution obj;
-
-    obj.convertToTitle(2147483647);
-
-    return 0;
-}

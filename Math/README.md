@@ -23,3 +23,4 @@
 |[405. Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)|[Link](Solutions/405-Convert_a_Number_to_Hexadecimal.cpp)|
 |[492. Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)|[Link](Solutions/492-Construct_The_Rectangle.cpp)|
 |[326. Power of Three](https://leetcode.com/problems/power-of-three/)|[Link](Solutions/326-Power_or_three.cpp)|
+|[628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|[Link](Solutions/628-Maximum_Product_of_Three_Numbers.cpp)|

@@ -1,5 +1,7 @@
 # Math
 - This repo has C++ solutions of some problems about `Math` from from leetcode
+<p>
+
 ## Easy
 |Problem|Solution|
 |-------|--------|
@@ -24,3 +26,11 @@
 |[492. Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)|[Link](Solutions/492-Construct_The_Rectangle.cpp)|
 |[326. Power of Three](https://leetcode.com/problems/power-of-three/)|[Link](Solutions/326-Power_or_three.cpp)|
 |[628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|[Link](Solutions/628-Maximum_Product_of_Three_Numbers.cpp)|
+</p>
+<p>
+
+## Medium
+|Problem|Solution|
+|-------|--------|
+|[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Link](Solutions/2-Add_Two_Numbers.cpp)|
+</p>

@@ -8,3 +8,4 @@
 - ***[Linear Data Structure](Linear_Data_Sturcture/README.md)*** `stack, queue, linked list`
 - ***[Hash Table](Hash_Table/README.md)***
 - ***[Math](Math)***
+- ***[Bits](/Bits/)***

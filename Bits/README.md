@@ -7,6 +7,7 @@
 |Problem|Solution|
 |-------|--------|
 |[Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer/problem)|[Link](/Bits/Solutions/HackerRank/lonely_integer.cpp)|
+|[Maximizing XOR](https://www.hackerrank.com/challenges/maximizing-xor/problem)|[Link](/Bits/Solutions/HackerRank/Maximizing_XOR.cpp)|
 
 </p>
 

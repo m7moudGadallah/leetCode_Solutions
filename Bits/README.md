@@ -1,5 +1,5 @@
 # Bits
-- Solution of some problems about  `Bits` from leetcode & HackerRank
+- Solution of some problems about  `Bits` from leetcode & HackerRank & HackerErath
 
 <p>
 
@@ -13,9 +13,19 @@
 
 </p>
 
-## LeetCode
 <p>
 
+## HackerEarth
+|problem|Solution|
+|-------|--------|
+|[Swaps](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/swaps-2-5ba5a3ee/)|[Link](/Bits/Solutions/HackerEarth/swaps.cpp)|
+
+</p>
+
+
+<p>
+
+## LeetCode
 ## Easy
 |Problem|Solution|
 |-------|--------|

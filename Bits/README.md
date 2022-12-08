@@ -22,6 +22,8 @@
 |[MAX AND](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/max-and-f1fbe59d/)|[Link](/Bits/Solutions/HackerEarth/max_and.cpp)|
 |[Count Pairs](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/count-pairs-13-c27240a8/)|[Link](/Bits/Solutions/HackerEarth/count_pairs.cpp)|
 |[Max Game](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/max-game-2a0793c2/)|[Link](/Bits/Solutions/HackerEarth/max_game.cpp)|
+|[A XOR challenge](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/xor-challenge-2420f189/)|[Link](/Bits/Solutions/HackerEarth/A_Xor_Challenge.cpp)|
+
 </p>
 
 

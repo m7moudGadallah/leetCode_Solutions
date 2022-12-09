@@ -40,9 +40,9 @@
 <p>
 
 ## LeetCode
-## Easy
+## Meduim
 |Problem|Solution|
 |-------|--------|
-
+|[201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/)|[Link](/Bits/Solutions/LeetCode/bitwise_and_of_number_range.cpp)|
 
 </p> 

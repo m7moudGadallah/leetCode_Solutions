@@ -47,5 +47,5 @@
 |[201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/)|[Link](/Bits/Solutions/LeetCode/bitwise_and_of_number_range.cpp)|
 |[421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/description/)|[Link](/Bits/Solutions/LeetCode/maximum_xor_of_two_numbers_in_an_array.cpp)|
 |[287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)|[Link](/Bits/Solutions/LeetCode/find_the_duplicate_number.cpp)|
-
+|[397. Integer Replacement](https://leetcode.com/problems/integer-replacement/)|[Link](/Bits/Solutions/LeetCode/integer_replacement.cpp)|
 </p> 

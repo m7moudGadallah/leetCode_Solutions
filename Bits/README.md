@@ -16,7 +16,7 @@
 <p>
 
 ## HackerEarth
-|problem|Solution|
+|Problem|Solution|
 |-------|--------|
 |[Swaps](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/swaps-2-5ba5a3ee/)|[Link](/Bits/Solutions/HackerEarth/swaps.cpp)|
 |[MAX AND](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/max-and-f1fbe59d/)|[Link](/Bits/Solutions/HackerEarth/max_and.cpp)|
@@ -30,7 +30,7 @@
 <p>
 
 ## CodeChef
-|problem|Solution|
+|Problem|Solution|
 |-------|--------|
 |[Prajit and bits](https://www.codechef.com/problems/ADDI)|[Link](/Bits/Solutions/CodeChef/prajit_and_bits.cpp)|
 

@@ -48,4 +48,5 @@
 |[421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/description/)|[Link](/Bits/Solutions/LeetCode/maximum_xor_of_two_numbers_in_an_array.cpp)|
 |[287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)|[Link](/Bits/Solutions/LeetCode/find_the_duplicate_number.cpp)|
 |[397. Integer Replacement](https://leetcode.com/problems/integer-replacement/)|[Link](/Bits/Solutions/LeetCode/integer_replacement.cpp)|
+|[371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[Link](/Bits/Solutions/LeetCode/sum_of_two_integers.cpp)|
 </p> 

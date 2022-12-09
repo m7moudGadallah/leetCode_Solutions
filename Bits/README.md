@@ -43,6 +43,7 @@
 ## Meduim
 |Problem|Solution|
 |-------|--------|
+|[89. Gray Code](https://leetcode.com/problems/gray-code/description/)|[Link](/Bits/Solutions/LeetCode/gray_code.cpp)|
 |[201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/)|[Link](/Bits/Solutions/LeetCode/bitwise_and_of_number_range.cpp)|
 
 </p> 

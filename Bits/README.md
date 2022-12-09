@@ -49,4 +49,6 @@
 |[287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)|[Link](/Bits/Solutions/LeetCode/find_the_duplicate_number.cpp)|
 |[397. Integer Replacement](https://leetcode.com/problems/integer-replacement/)|[Link](/Bits/Solutions/LeetCode/integer_replacement.cpp)|
 |[371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[Link](/Bits/Solutions/LeetCode/sum_of_two_integers.cpp)|
+|[1680. Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/)|[Link](/Bits/Solutions/LeetCode/concatenation_of_consecutive_binary_numbers.cpp)|
+
 </p> 

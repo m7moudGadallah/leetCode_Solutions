@@ -41,4 +41,6 @@
 |-------|--------|
 |[75. Sort Colors](https://leetcode.com/problems/sort-colors/)|[Link](/Searching%26Sorting/Solutions/75-sort_colors.cpp)|
 |[56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Link](/Searching%26Sorting/Solutions/65-merge_intervals.cpp)|
+|[179. Largest Number](https://leetcode.com/problems/largest-number/)|[Link](/Searching%26Sorting/Solutions/179-largest_number.cpp)|
+
 </p>

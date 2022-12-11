@@ -5,6 +5,7 @@
 ## Topics
 - ***[Arrays](Arrays/README.md)***
 - ***[Strings](Strings/README.md)***
+- ***[Searching & Sorting](/Searching%26Sorting/)***
 - ***[Linear Data Structure](Linear_Data_Sturcture/README.md)*** `stack, queue, linked list`
 - ***[Hash Table](Hash_Table/README.md)***
 - ***[Math](Math)***

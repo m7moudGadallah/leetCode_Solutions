@@ -20,6 +20,11 @@
 |[268. Missing Number](https://leetcode.com/problems/missing-number/)|[Link](/Searching%26Sorting/Solutions/268-missing_number.cpp)|
 |[350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Link](/Searching%26Sorting/Solutions/350-Intersection_of_two_arrays_II.cpp)|
 
+### Medium
+|Problem|Solution|
+|-------|--------|
+|[34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Link](/Searching%26Sorting/Solutions/34-find_first_and_last_position_of_element_in_sorted_array.cpp)|
+
 </p>
 
 ## Sorting

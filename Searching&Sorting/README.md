@@ -28,5 +28,6 @@
 |-------|--------|
 |[1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[Link](/Searching%26Sorting/Solutions/1365-how_many_numbers_are_smaller_than_the_current_number.cpp)|
 |[1636. Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)|[Link](/Searching%26Sorting/Solutions/1636-sort_array_by_increasing_frequency.cpp)|
+|[350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Link](/Searching%26Sorting/Solutions/350-Intersection_of_two_arrays_II.cpp)|
 
 </p>

@@ -40,5 +40,5 @@
 |Problem|Solution|
 |-------|--------|
 |[75. Sort Colors](https://leetcode.com/problems/sort-colors/)|[Link](/Searching%26Sorting/Solutions/75-sort_colors.cpp)|
-|[](https://leetcode.com/problems/merge-intervals/)|[Link]()|
+|[56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Link](/Searching%26Sorting/Solutions/65-merge_intervals.cpp)|
 </p>

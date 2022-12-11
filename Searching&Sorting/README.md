@@ -16,6 +16,7 @@
 |[441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[Link](/Searching%26Sorting/Solutions/441-Arranging_coins.cpp)|
 |[374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[Link](/Searching%26Sorting/Solutions/374-guess_number_higher_or_lower.cpp)|
 |[1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)|[Link](/Searching%26Sorting/Solutions/1539-Kth_missing_positive_number.cpp)|
+|[2389. Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)|[Link](/Searching%26Sorting/Solutions/2389-longest_subsequence_with_limited_sum.cpp)|
 
 </p>
 

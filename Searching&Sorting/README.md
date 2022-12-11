@@ -37,6 +37,7 @@
 |[2160. Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/)|[Link]()|
 |[1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)|[Link](/Searching%26Sorting/Solutions/1859-sorting_the_sentence.cpp)|
 |[1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|[Link](/Searching%26Sorting/Solutions/1122-relative_sort_array.cpp)|
+|[1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)|[Link](/Searching%26Sorting/Solutions/1346-check_if_n_and_its_double_exist.cpp)|
 
 ### Medium
 |Problem|Solution|

@@ -10,6 +10,7 @@
 |-------|--------|
 |[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Link](/Searching%26Sorting/Solutions/35-search_insert_position.cpp)|
 |[2089. Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/)|[Link](/Searching%26Sorting/Solutions/2089-find_target_indices_after_sorting_array.cpp)|
+|[69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Link](/Searching%26Sorting/Solutions/69-sqrt(x).cpp)|
 
 </p>
 

@@ -12,6 +12,7 @@
 |[2089. Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/)|[Link](/Searching%26Sorting/Solutions/2089-find_target_indices_after_sorting_array.cpp)|
 |[69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Link](/Searching%26Sorting/Solutions/69-sqrt(x).cpp)|
 |[704. Binary Search](https://leetcode.com/problems/binary-search/)|[Link](/Searching%26Sorting/Solutions/704-binary_search.cpp)|
+|[367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[Link](/Searching%26Sorting/Solutions/367-valid_perfect_square.cpp)|
 
 </p>
 

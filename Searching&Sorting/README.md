@@ -34,7 +34,7 @@
 |-------|--------|
 |[1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[Link](/Searching%26Sorting/Solutions/1365-how_many_numbers_are_smaller_than_the_current_number.cpp)|
 |[1636. Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)|[Link](/Searching%26Sorting/Solutions/1636-sort_array_by_increasing_frequency.cpp)|
-|[2160. Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/)|[Link]()|
+|[2160. Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/)|[Link](/Searching%26Sorting/Solutions/2160-minimum_sum_of_four_digit_number_after_splitting_digits.cpp)|
 |[1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)|[Link](/Searching%26Sorting/Solutions/1859-sorting_the_sentence.cpp)|
 |[1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|[Link](/Searching%26Sorting/Solutions/1122-relative_sort_array.cpp)|
 |[1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)|[Link](/Searching%26Sorting/Solutions/1346-check_if_n_and_its_double_exist.cpp)|

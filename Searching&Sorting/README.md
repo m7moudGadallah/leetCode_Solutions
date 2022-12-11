@@ -24,6 +24,7 @@
 |Problem|Solution|
 |-------|--------|
 |[34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Link](/Searching%26Sorting/Solutions/34-find_first_and_last_position_of_element_in_sorted_array.cpp)|
+|[162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Link](/Searching%26Sorting/Solutions/162-find_peak_element.cpp)|
 
 </p>
 

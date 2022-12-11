@@ -14,6 +14,7 @@
 |[704. Binary Search](https://leetcode.com/problems/binary-search/)|[Link](/Searching%26Sorting/Solutions/704-binary_search.cpp)|
 |[367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[Link](/Searching%26Sorting/Solutions/367-valid_perfect_square.cpp)|
 |[441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[Link](/Searching%26Sorting/Solutions/441-Arranging_coins.cpp)|
+|[374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[Link](/Searching%26Sorting/Solutions/374-guess_number_higher_or_lower.cpp)|
 
 </p>
 

@@ -36,4 +36,9 @@
 |[1636. Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)|[Link](/Searching%26Sorting/Solutions/1636-sort_array_by_increasing_frequency.cpp)|
 |[2160. Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/)|[Link]()|
 
+### Medium
+|Problem|Solution|
+|-------|--------|
+|[75. Sort Colors](https://leetcode.com/problems/sort-colors/)|[Link](/Searching%26Sorting/Solutions/75-sort_colors.cpp)|
+|[](https://leetcode.com/problems/merge-intervals/)|[Link]()|
 </p>

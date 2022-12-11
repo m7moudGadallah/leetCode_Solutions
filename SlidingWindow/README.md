@@ -1,5 +1,6 @@
 # Sliding Window
-- Solution of some problems about `Sliding Window & 2 Pointers` from `leetcode`
+- Solution of some problems about `Sliding Window & 2 Pointers` from `leetcode` & `codechef`
+
 
 <p>
 
@@ -12,5 +13,15 @@
 |[209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Link](/SlidingWindow/Solutions/leetcode/209-minimum_size_subarray_sum.cpp)|
 |[658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|[Link](/SlidingWindow/Solutions/leetcode/658-find_k_closest_elements.cpp)|
 |[713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)|[Link](/SlidingWindow/Solutions/leetcode/713-subarray_product_less_than_k.cpp)|
+
+</p>
+
+
+<p>
+
+## CodeChef
+|Problem|Solution|
+|-------|--------|
+|[Summary Power](https://www.codechef.com/problems/SUMPOWER)|[Link](/SlidingWindow/Solutions/codechef/summer_power.cpp)|
 
 </p>

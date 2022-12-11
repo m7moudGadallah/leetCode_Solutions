@@ -39,6 +39,8 @@
 |[1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|[Link](/Searching%26Sorting/Solutions/1122-relative_sort_array.cpp)|
 |[1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)|[Link](/Searching%26Sorting/Solutions/1346-check_if_n_and_its_double_exist.cpp)|
 |[268. Missing Number](https://leetcode.com/problems/missing-number/)|[Link](/Searching%26Sorting/Solutions/268-missing_number.cpp)|
+|[350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Link](/Searching%26Sorting/Solutions/350-Intersection_of_two_arrays_II.cpp)|
+|[561. Array Partition](https://leetcode.com/problems/array-partition/)|[Link](/Searching%26Sorting/Solutions/561-array_partition.cpp)|
 
 ### Medium
 |Problem|Solution|

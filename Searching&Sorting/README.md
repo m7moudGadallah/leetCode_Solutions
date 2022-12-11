@@ -13,6 +13,7 @@
 |[69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Link](/Searching%26Sorting/Solutions/69-sqrt(x).cpp)|
 |[704. Binary Search](https://leetcode.com/problems/binary-search/)|[Link](/Searching%26Sorting/Solutions/704-binary_search.cpp)|
 |[367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[Link](/Searching%26Sorting/Solutions/367-valid_perfect_square.cpp)|
+|[441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[Link](/Searching%26Sorting/Solutions/441-Arranging_coins.cpp)|
 
 </p>
 

@@ -13,6 +13,7 @@
 |[209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Link](/SlidingWindow/Solutions/leetcode/209-minimum_size_subarray_sum.cpp)|
 |[658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|[Link](/SlidingWindow/Solutions/leetcode/658-find_k_closest_elements.cpp)|
 |[713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)|[Link](/SlidingWindow/Solutions/leetcode/713-subarray_product_less_than_k.cpp)|
+|[1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)|[Link](/SlidingWindow/Solutions/leetcode/1004-max_consecutive_ones_III.cpp)|
 
 </p>
 

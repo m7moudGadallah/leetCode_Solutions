@@ -14,7 +14,7 @@
 |[658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|[Link](/SlidingWindow/Solutions/leetcode/658-find_k_closest_elements.cpp)|
 |[713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)|[Link](/SlidingWindow/Solutions/leetcode/713-subarray_product_less_than_k.cpp)|
 |[1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)|[Link](/SlidingWindow/Solutions/leetcode/1004-max_consecutive_ones_III.cpp)|
-
+|[28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)|[Link](/SlidingWindow/Solutions/leetcode/28-find_the_index_of_the_first_occurrence_in_a_string.cpp)|
 </p>
 
 

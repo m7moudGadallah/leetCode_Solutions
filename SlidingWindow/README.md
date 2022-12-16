@@ -21,6 +21,7 @@
 |[1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)|[Link](/SlidingWindow/Solutions/leetcode/1456-maximum_number_of_vowels_in_a_substring_of_given_length.cpp)|
 |[1695. Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)|[Link](/SlidingWindow/Solutions/leetcode/1695-maximum_erasure_value.cpp)|
 |[763. Partition Labels](https://leetcode.com/problems/partition-labels/)|[Link](/SlidingWindow/Solutions/leetcode/763-partition_labels.cpp)
+|[2024. Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/)|[Link](/SlidingWindow/Solutions/leetcode/2024-maximize_the_confusion_of_an_exam.cpp)|
 </p>
 
 

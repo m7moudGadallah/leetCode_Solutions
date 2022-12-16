@@ -30,7 +30,8 @@
 ## GeeksforGeeks
 |Problem|Solution|
 |-------|--------|
-|[Intersection of two arrays](https://practice.geeksforgeeks.org/problems/intersection-of-two-arrays2404/1?page=1&difficulty[]=-1&difficulty[]=0&category[]=two-pointer-algorithm&sortBy=submissions)|[Link](/SlidingWindow/Solutions/geeksforgeeks/intersection_of_two_arrays.cpp)
+|[Intersection of two arrays](https://practice.geeksforgeeks.org/problems/intersection-of-two-arrays2404/1?page=1&difficulty[]=-1&difficulty[]=0&category[]=two-pointer-algorithm&sortBy=submissions)|[Link](/SlidingWindow/Solutions/geeksforgeeks/intersection_of_two_arrays.cpp)|
+|[Remove duplicate elements from sorted Array](https://practice.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1?page=1&difficulty[]=-1&difficulty[]=0&category[]=two-pointer-algorithm&sortBy=submissions)|[Link](/SlidingWindow/Solutions/geeksforgeeks/remove_duplicate_elements_from_sorted_array.cpp)|
 </p>
 
 <p>

@@ -22,6 +22,7 @@
 |[1695. Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)|[Link](/SlidingWindow/Solutions/leetcode/1695-maximum_erasure_value.cpp)|
 |[763. Partition Labels](https://leetcode.com/problems/partition-labels/)|[Link](/SlidingWindow/Solutions/leetcode/763-partition_labels.cpp)
 |[2024. Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/)|[Link](/SlidingWindow/Solutions/leetcode/2024-maximize_the_confusion_of_an_exam.cpp)|
+|[2090. K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/)|[Link](/SlidingWindow/Solutions/leetcode/2090-k_radius_subarray_averages.cpp)|
 </p>
 
 

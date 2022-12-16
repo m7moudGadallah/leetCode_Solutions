@@ -25,6 +25,13 @@
 |[2090. K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/)|[Link](/SlidingWindow/Solutions/leetcode/2090-k_radius_subarray_averages.cpp)|
 </p>
 
+<p>
+
+## GeeksforGeeks
+|Problem|Solution|
+|-------|--------|
+|[Intersection of two arrays](https://practice.geeksforgeeks.org/problems/intersection-of-two-arrays2404/1?page=1&difficulty[]=-1&difficulty[]=0&category[]=two-pointer-algorithm&sortBy=submissions)|[Link](/SlidingWindow/Solutions/geeksforgeeks/intersection_of_two_arrays.cpp)
+</p>
 
 <p>
 

@@ -17,6 +17,7 @@
 |[28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)|[Link](/SlidingWindow/Solutions/leetcode/28-find_the_index_of_the_first_occurrence_in_a_string.cpp)|
 |[15. 3Sum](https://leetcode.com/problems/3sum/)|[Link](/SlidingWindow/Solutions/leetcode/15-3sum.cpp)|
 |[2486. Append Characters to String to Make Subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/)|[Link](/SlidingWindow/Solutions/leetcode/2486-append_characters_to_string_to_make_subsequence.cpp)|
+|[2260. Minimum Consecutive Cards to Pick Up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/)|[Link](/SlidingWindow/Solutions/leetcode/2260-minimum_consecutive_cards_to_pick_up.cpp)|
 </p>
 
 

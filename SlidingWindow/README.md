@@ -1,5 +1,5 @@
 # Sliding Window
-- Solution of some problems about `Sliding Window & 2 Pointers` from `leetcode` & `codechef`
+- Solution of some problems about `Sliding Window & 2 Pointers` from `leetcode` & `codechef` & `geeksforgeeks`
 
 
 <p>

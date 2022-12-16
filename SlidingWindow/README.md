@@ -20,6 +20,7 @@
 |[2260. Minimum Consecutive Cards to Pick Up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/)|[Link](/SlidingWindow/Solutions/leetcode/2260-minimum_consecutive_cards_to_pick_up.cpp)|
 |[1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)|[Link](/SlidingWindow/Solutions/leetcode/1456-maximum_number_of_vowels_in_a_substring_of_given_length.cpp)|
 |[1695. Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)|[Link](/SlidingWindow/Solutions/leetcode/1695-maximum_erasure_value.cpp)|
+|[763. Partition Labels](https://leetcode.com/problems/partition-labels/)|[Link](/SlidingWindow/Solutions/leetcode/763-partition_labels.cpp)
 </p>
 
 

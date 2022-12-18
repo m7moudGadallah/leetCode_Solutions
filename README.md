@@ -11,6 +11,7 @@
 - ***[Math](Math)***
 - ***[Bits](/Bits/)***
 - ***[Sliding Window & Two pointers](/SlidingWindow/)***
+- ***[Greedy](/greedy/)***
 
 
 -------

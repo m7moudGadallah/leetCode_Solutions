@@ -15,5 +15,6 @@
 |[397. Integer Replacement](https://leetcode.com/problems/integer-replacement/)|[Link](./leetcode/397-integer_replacement.cpp)|
 |[954. Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)|[Link](./leetcode/954-array_of_doubled_pairs.cpp)|
 |[402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[Link](./leetcode/402-Remove_K_Digits.cpp)|
+|[763. Partition Labels](https://leetcode.com/problems/partition-labels/)|[Link](./leetcode/763-Partition_label.cpp)|
 
 </p>

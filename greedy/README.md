@@ -17,5 +17,6 @@
 |[402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[Link](./leetcode/402-Remove_K_Digits.cpp)|
 |[763. Partition Labels](https://leetcode.com/problems/partition-labels/)|[Link](./leetcode/763-Partition_label.cpp)|
 |[309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[Link](./leetcode/122-best_time_to_buy_and_sell_stockII.cpp)|
+|[Swap and Maximize](https://practice.geeksforgeeks.org/problems/swap-and-maximize5859/1?page=1&difficulty%5b%5d=-2&difficulty%5b%5d=-1&difficulty%5b%5d=0&category%5b%5d=Greedy&sortBy=difficulty)|[Link](./geeksforgeeks/swap_and_maximize.cpp)|
 
 </p>

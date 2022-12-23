@@ -30,5 +30,6 @@
 |[Message Spreading](https://practice.geeksforgeeks.org/problems/message-spreading4258/1?page=1&difficulty%5b%5d=-2&difficulty%5b%5d=-1&difficulty%5b%5d=0&category%5b%5d=Greedy&sortBy=difficulty)|[Link](./geeksforgeeks/message_spreading.cpp)|
 |[Stock buy and sell](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell-1587115621/1?page=1&difficulty%5b%5d=-2&difficulty%5b%5d=-1&difficulty%5b%5d=0&category%5b%5d=Greedy&sortBy=difficulty)|[Link](./geeksforgeeks/stock_buy_and_sell.cpp)|
 |[Shop in Candy Store](https://practice.geeksforgeeks.org/problems/shop-in-candy-store1145/1?page=1&difficulty%5b%5d=-2&difficulty%5b%5d=-1&difficulty%5b%5d=0&category%5b%5d=Greedy&sortBy=difficulty)|[Link](./geeksforgeeks/shop_in_candy_store.cpp)|
+|[Maximize Toys](https://practice.geeksforgeeks.org/problems/maximize-toys0331/1?page=1&difficulty%5b%5d=-2&difficulty%5b%5d=-1&difficulty%5b%5d=0&category%5b%5d=Greedy&sortBy=difficulty)|[Link](./geeksforgeeks/maximize_toys.cpp)|
 
 </p>

@@ -27,5 +27,6 @@
 |-------|--------|
 |[Swap and Maximize](https://practice.geeksforgeeks.org/problems/swap-and-maximize5859/1?page=1&difficulty%5b%5d=-2&difficulty%5b%5d=-1&difficulty%5b%5d=0&category%5b%5d=Greedy&sortBy=difficulty)|[Link](./geeksforgeeks/swap_and_maximize.cpp)|
 |[Minimize the sum of product](https://practice.geeksforgeeks.org/problems/minimize-the-sum-of-product1525/1?page=1&difficulty%5b%5d=-2&difficulty%5b%5d=-1&difficulty%5b%5d=0&category%5b%5d=Greedy&sortBy=difficulty)|[Link](./geeksforgeeks/minimize_the_sum_of_product.cpp)|
+|[Message Spreading](https://practice.geeksforgeeks.org/problems/message-spreading4258/1?page=1&difficulty%5b%5d=-2&difficulty%5b%5d=-1&difficulty%5b%5d=0&category%5b%5d=Greedy&sortBy=difficulty)|[Link](./geeksforgeeks/message_spreading.cpp)|
 
 </p>

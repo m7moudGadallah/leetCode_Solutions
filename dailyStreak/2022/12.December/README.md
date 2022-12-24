@@ -7,3 +7,4 @@
 |19/12|[1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)|[Link](/dailyStreak/2022/12.December/1971-find_if_path_exists_in_graph.cpp)|`graph` `bfs`|
 |20/12|[841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[Link](./841-keys_and_rooms.cpp)|`graph` `bfs`|
 |21/12|[886. Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)|[Link](./886-possible_bipartition.cpp)|`graph` `bfs` `bipartite graph`|
+|24/12|[790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)|[Link](./790-domino_and_tromino_tiling.cpp)|`Dynamic Programming`|

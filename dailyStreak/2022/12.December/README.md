@@ -8,3 +8,4 @@
 |20/12|[841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[Link](./841-keys_and_rooms.cpp)|`graph` `bfs`|
 |21/12|[886. Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)|[Link](./886-possible_bipartition.cpp)|`graph` `bfs` `bipartite graph`|
 |24/12|[790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)|[Link](./790-domino_and_tromino_tiling.cpp)|`Dynamic Programming`|
+|25/12|[2389. Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)|[Link](./2389-longest_subsequence_with_limited_sum.cpp)|`Binary Serach` `greedy` `sorting` `prefix sum`|

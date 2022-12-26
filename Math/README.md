@@ -33,4 +33,5 @@
 |Problem|Solution|
 |-------|--------|
 |[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Link](Solutions/2-Add_Two_Numbers.cpp)|
+|[50. Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Link](./Solutions/50-pow(x%2Cn).cpp)|
 </p>

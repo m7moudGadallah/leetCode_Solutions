@@ -15,7 +15,7 @@
 
 ------
 ## Study Plans
-- [Programming Skills](./studyPlans/ProgrammingSkills/)
+- ***[Programming Skills](./studyPlans/ProgrammingSkills/)***
 
 -------
 ## Daily Streak

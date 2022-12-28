@@ -13,6 +13,9 @@
 - ***[Sliding Window & Two pointers](/SlidingWindow/)***
 - ***[Greedy](/greedy/)***
 
+------
+## Study Plans
+- [Programming Skills](./studyPlans/ProgrammingSkills/)
 
 -------
 ## Daily Streak

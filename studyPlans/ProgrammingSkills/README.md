@@ -16,3 +16,4 @@
 |^|[202. Happy Number](https://leetcode.com/problems/happy-number/)|[Link](./ProgrammingSkillsI/202-happy_number.cpp)|`Easy`|`math` `hash table`|
 |^|[1790. Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/description/?envType=study-plan&id=programming-skills-i)|[Link](./ProgrammingSkillsI/1790-check_if_one_string_swap_can_make_strings_equal.cpp)|`Easy`|`hash table` `string` `counting`|
 |5|[589. N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/description/?envType=study-plan&id=programming-skills-i)|[Link](./ProgrammingSkillsI/589-N_ary_tree_preorder_traversal.cpp)|`Easy`|`Tree` `DFS`|
+|^|[1232. Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/description/?envType=study-plan&id=programming-skills-i)|[Link](./ProgrammingSkillsI/1232-check_if_it_is_a_straight_line.cpp)|`Easy`|`math` `Geometry`|

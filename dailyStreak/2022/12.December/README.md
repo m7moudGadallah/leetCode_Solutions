@@ -14,3 +14,4 @@
 |28/12|[1962. Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/)|[Link](./1962-remove_stones_to_minimize_the_total.cpp)|`MaxHeap(Priority Queue)`|
 |29/12|[1834. Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/)|[Link](./1834-single-threaded_cpu.cpp)|`sorting` `MinHeap(Priority Queue)`|
 |30/12|[797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)|[Link](./797-all_paths_from_source_to_target.cpp)|`graph` `dfs` `backtracking`|
+|31/12|[980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|[Link](./980-Unique_paths_III.cpp)|`dfs` `backtracking`|

@@ -20,3 +20,4 @@
 -------
 ## Daily Streak
 - ***[2022](/dailyStreak/2022/)***
+- ***[2023](/dailyStreak/2023/)***

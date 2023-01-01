@@ -1,2 +1,2 @@
 ## Daily Streak 2023
-- ***[January](/dailyStreak/2023/Jan/)***
+- ***[January](./01.Jan/)***

@@ -19,3 +19,4 @@
 |^|[1232. Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/description/?envType=study-plan&id=programming-skills-i)|[Link](./ProgrammingSkillsI/1232-check_if_it_is_a_straight_line.cpp)|`Easy`|`math` `Geometry`|
 |^|[496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/?envType=study-plan&id=programming-skills-i)|[Link](./ProgrammingSkillsI/496-next_greater_element_I.cpp)|`Easy` |`Hash Table` `Array` `Monotonic Stack`|
 |6|[1588. Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/description/?envType=study-plan&id=programming-skills-i)|[Link](./ProgrammingSkillsI/1588-sum_of_all_odd_length_subarrays.cpp)|`Easy`|`Array` `Math` `Prefix Sum`|
+|^|[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Link](./ProgrammingSkillsI/283-move_zeroes.cpp)|`Easy`|`Array` `Two Pointers`|

@@ -16,6 +16,7 @@
 ------
 ## Study Plans
 - ***[Programming Skills](./studyPlans/ProgrammingSkills/)***
+- ***[Binary serach](./studyPlans/BinarySearch/)***
 
 -------
 ## Daily Streak

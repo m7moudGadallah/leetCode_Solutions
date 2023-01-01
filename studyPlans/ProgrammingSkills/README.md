@@ -20,3 +20,4 @@
 |^|[496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/?envType=study-plan&id=programming-skills-i)|[Link](./ProgrammingSkillsI/496-next_greater_element_I.cpp)|`Easy` |`Hash Table` `Array` `Monotonic Stack`|
 |6|[1588. Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/description/?envType=study-plan&id=programming-skills-i)|[Link](./ProgrammingSkillsI/1588-sum_of_all_odd_length_subarrays.cpp)|`Easy`|`Array` `Math` `Prefix Sum`|
 |^|[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Link](./ProgrammingSkillsI/283-move_zeroes.cpp)|`Easy`|`Array` `Two Pointers`|
+|^|[1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/description/?envType=study-plan&id=programming-skills-i)|[Link](./ProgrammingSkillsI/1672-richest_customer_wealth.cpp)|`Easy`|`Array` `Matrix`|

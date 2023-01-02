@@ -22,3 +22,4 @@
 |^|[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Link](./ProgrammingSkillsI/283-move_zeroes.cpp)|`Easy`|`Array` `Two Pointers`|
 |^|[1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/description/?envType=study-plan&id=programming-skills-i)|[Link](./ProgrammingSkillsI/1672-richest_customer_wealth.cpp)|`Easy`|`Array` `Matrix`|
 |7|[1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/description/?envType=study-plan&id=programming-skills-i)|[Link](./ProgrammingSkillsI/1572-matrix_diagonal_sum.cpp)|`Easy`|`Array` `Matrix`|
+|^|[566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/?envType=study-plan&id=programming-skills-i)|[Link](./ProgrammingSkillsI/566-reshape_the_matrix.cpp)|`Easy`|`Array` `Matrix` `Simulation`|

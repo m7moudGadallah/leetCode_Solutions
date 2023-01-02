@@ -25,3 +25,4 @@
 |^|[566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/?envType=study-plan&id=programming-skills-i)|[Link](./ProgrammingSkillsI/566-reshape_the_matrix.cpp)|`Easy`|`Array` `Matrix` `Simulation`|
 |8|[1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)|[Link](./ProgrammingSkillsI/1768-merge_strings_alternately.cpp)|`Easy`|`Two Pointers` `String`|
 |^|[1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[Link](./ProgrammingSkillsI/1678-goal_parser_interpretation.cpp)|`Easy`|`String`|
+|^|[389. Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Link](./ProgrammingSkillsI/389-find_the_difference.cpp)|`Easy`|`Hash Table` `String`|

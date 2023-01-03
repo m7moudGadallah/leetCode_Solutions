@@ -26,3 +26,4 @@
 |8|[1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)|[Link](./ProgrammingSkillsI/1768-merge_strings_alternately.cpp)|`Easy`|`Two Pointers` `String`|
 |^|[1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[Link](./ProgrammingSkillsI/1678-goal_parser_interpretation.cpp)|`Easy`|`String`|
 |^|[389. Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Link](./ProgrammingSkillsI/389-find_the_difference.cpp)|`Easy`|`Hash Table` `String`|
+|9|[709. To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Link](./ProgrammingSkillsI/709-to_lower_case.cpp)|`Easy`|`String`|

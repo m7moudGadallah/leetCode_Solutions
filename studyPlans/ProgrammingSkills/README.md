@@ -28,3 +28,4 @@
 |^|[389. Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Link](./ProgrammingSkillsI/389-find_the_difference.cpp)|`Easy`|`Hash Table` `String`|
 |9|[709. To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Link](./ProgrammingSkillsI/709-to_lower_case.cpp)|`Easy`|`String`|
 |^|[1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)|[Link](./ProgrammingSkillsI/1309-decrypt_string_from_aplhabet_to_integer_mapping.cpp)|`Easy`|`String`|
+|^|[953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|[Link](./ProgrammingSkillsI/953-verifing_an_alien_dictionary.cpp)|`Easy`|`String` `Hash Table`|

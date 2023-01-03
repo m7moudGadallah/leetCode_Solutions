@@ -27,3 +27,4 @@
 |^|[1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[Link](./ProgrammingSkillsI/1678-goal_parser_interpretation.cpp)|`Easy`|`String`|
 |^|[389. Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Link](./ProgrammingSkillsI/389-find_the_difference.cpp)|`Easy`|`Hash Table` `String`|
 |9|[709. To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Link](./ProgrammingSkillsI/709-to_lower_case.cpp)|`Easy`|`String`|
+|^|[1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)|[Link](./ProgrammingSkillsI/1309-decrypt_string_from_aplhabet_to_integer_mapping.cpp)|`Easy`|`String`|

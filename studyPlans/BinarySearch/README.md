@@ -10,3 +10,4 @@
 |2|[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/?envType=study-plan&id=binary-search-i)|[Link](./BinarySearchI/35-search_insert_position.cpp)|`Easy`|`Array` `Binary Search`|
 |^|[852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/?envType=study-plan&id=binary-search-i)|[Link](./BinarySearchI/852-peak_index_in_a_mountain_array.cpp)|`Medium`|`Array` `Binary Search`|
 |3|[367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[Link](./BinarySearchI/367-valid_perfect_square.cpp)|`Easy`|`Math` `Binary Search`|
+|^|[1385. Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/description/?envType=study-plan&id=binary-search-i)|[Link](./BinarySearchI/1385-find_the_distance_value_between_two_arrays.cpp)|`Easy`|`Arrays` `Sorting` `Binary Serach`|

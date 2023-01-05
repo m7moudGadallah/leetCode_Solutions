@@ -30,3 +30,4 @@
 |^|[1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)|[Link](./ProgrammingSkillsI/1309-decrypt_string_from_aplhabet_to_integer_mapping.cpp)|`Easy`|`String`|
 |^|[953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|[Link](./ProgrammingSkillsI/953-verifing_an_alien_dictionary.cpp)|`Easy`|`String` `Hash Table`|
 |10|[1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/?envType=study-plan&id=programming-skills-i)|[Link](./ProgrammingSkillsI/1290-convert_binary_number_in_a_linked_list_to_integer.cpp)|`Easy`|`Linked List` `Math`|
+|^|[876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Link](./ProgrammingSkillsI/876-middle_of_the_linked_list.cpp)|`Easy`|`Linked List` `Two Pointers`|

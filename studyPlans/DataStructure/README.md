@@ -9,3 +9,4 @@
 |^|[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Link](./DataStructureI/53-maximum_subarray.cpp)|`Medium`|`Array`|
 |2|[1. Two Sum](https://leetcode.com/problems/two-sum/?envType=study-plan&id=data-structure-i)|[Link](./DataStructureI/1-two_sum.cpp)|`Easy`|`Hash Table`|
 |^|[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/?envType=study-plan&id=data-structure-i)|[Link](./DataStructureI/88-merge_sorted_array.cpp)|`Easy`|`Array` `Sorting` `Two Pointers`|
+|3|[350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/?envType=study-plan&id=data-structure-i)|[Link](./DataStructureI/350-intersection_of_two_arrays_II.cpp)|`Easy`|`Hash table` `Array`|

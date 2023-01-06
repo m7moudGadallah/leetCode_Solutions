@@ -14,3 +14,4 @@
 |4|[69. Sqrt(x)](https://leetcode.com/problems/sqrtx/?envType=study-plan&id=binary-search-i)|[Link](./BinarySearchI/69-sqrt(x).cpp)|`Easy`|`Math` `Binary Serach`|
 |^|[744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/?envType=study-plan&id=binary-search-i)|[Link](./BinarySearchI/744-find_smallest_letter_greater_than_target.cpp)|`Easy`|`Binary Search`|
 |5|[278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/?envType=study-plan&id=binary-search-i)|[Link](./BinarySearchI/278-first_bad_version.cpp)|`Easy`|`Binary Serach` `Interactive`|
+|^|[34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/?envType=study-plan&id=binary-search-i)|[Link](./BinarySearchI/34-find_first_and_last_position_of_element_in_sorted_array.cpp)|`Medium`|`Binary Search`|

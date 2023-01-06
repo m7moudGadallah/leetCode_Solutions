@@ -38,3 +38,4 @@
 |^|[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Link](./ProgrammingSkillsI/242-valid_anagram.cpp)|`Easy`|`Hash Table` `Sorting`|
 |^|[217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/?envType=study-plan&id=programming-skills-i)|[Link](./ProgrammingSkillsI/217-contains_duplicate.cpp)|`Easy`|`Hash Table` `Sorting`|
 |12|[1603. Design Parking System](https://leetcode.com/problems/design-parking-system/description/?envType=study-plan&id=programming-skills-i)|[Link](./ProgrammingSkillsI/1603-design_parking_system.cpp)|`Easy`|`Design` `Counting` `Simulation`|
+|^|[303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/?envType=study-plan&id=programming-skills-i)|[Link](./ProgrammingSkillsI/303-range_sum_query_immutable.cpp)|`Easy`|`Design` `Prefix Sum`|

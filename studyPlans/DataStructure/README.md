@@ -10,3 +10,4 @@
 |2|[1. Two Sum](https://leetcode.com/problems/two-sum/?envType=study-plan&id=data-structure-i)|[Link](./DataStructureI/1-two_sum.cpp)|`Easy`|`Hash Table`|
 |^|[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/?envType=study-plan&id=data-structure-i)|[Link](./DataStructureI/88-merge_sorted_array.cpp)|`Easy`|`Array` `Sorting` `Two Pointers`|
 |3|[350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/?envType=study-plan&id=data-structure-i)|[Link](./DataStructureI/350-intersection_of_two_arrays_II.cpp)|`Easy`|`Hash table` `Array`|
+|^|[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=study-plan&id=data-structure-i)|[Link](./DataStructureI/121-best_time_to_buy_and_sell_stock.cpp)|`Easy`|`Array` `Two Pointers`|

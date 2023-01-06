@@ -13,3 +13,4 @@
 |^|[1385. Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/description/?envType=study-plan&id=binary-search-i)|[Link](./BinarySearchI/1385-find_the_distance_value_between_two_arrays.cpp)|`Easy`|`Arrays` `Sorting` `Binary Serach`|
 |4|[69. Sqrt(x)](https://leetcode.com/problems/sqrtx/?envType=study-plan&id=binary-search-i)|[Link](./BinarySearchI/69-sqrt(x).cpp)|`Easy`|`Math` `Binary Serach`|
 |^|[744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/?envType=study-plan&id=binary-search-i)|[Link](./BinarySearchI/744-find_smallest_letter_greater_than_target.cpp)|`Easy`|`Binary Search`|
+|5|[278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/?envType=study-plan&id=binary-search-i)|[Link](./BinarySearchI/278-first_bad_version.cpp)|`Easy`|`Binary Serach` `Interactive`|

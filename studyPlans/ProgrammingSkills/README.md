@@ -32,3 +32,4 @@
 |10|[1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/?envType=study-plan&id=programming-skills-i)|[Link](./ProgrammingSkillsI/1290-convert_binary_number_in_a_linked_list_to_integer.cpp)|`Easy`|`Linked List` `Math`|
 |^|[876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Link](./ProgrammingSkillsI/876-middle_of_the_linked_list.cpp)|`Easy`|`Linked List` `Two Pointers`|
 |^|[104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/?envType=study-plan&id=programming-skills-i)|[Link](./ProgrammingSkillsI/104-maximum_depth_of_binary_tree.cpp)|`Easy`|`Tree` `Binary Tree` `DFS`|
+|^|[404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Link](./ProgrammingSkillsI/404-sum_of_left_leaves.cpp)|`Easy`|`Tree` `Binary Tree` `DFS`|

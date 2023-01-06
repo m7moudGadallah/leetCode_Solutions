@@ -35,3 +35,4 @@
 |^|[404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Link](./ProgrammingSkillsI/404-sum_of_left_leaves.cpp)|`Easy`|`Tree` `Binary Tree` `DFS`|
 |11|[1356. Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)|[Link](./ProgrammingSkillsI/1356-sort_integers_by_the_number_of_1_bits.cpp)|`Easy`|`Bit Manipulation` `Sorting` `Counting`|
 |^|[232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/?envType=study-plan&id=programming-skills-i)|[Link](./ProgrammingSkillsI/232-implement_queue_using_stacks.cpp)|`Easy`|`Queue` `Stack`|
+|^|[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Link](./ProgrammingSkillsI/242-valid_anagram.cpp)|`Easy`|`Hash Table` `Sorting`|

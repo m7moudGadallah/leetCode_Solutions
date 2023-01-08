@@ -15,3 +15,4 @@
 |^|[118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Link](./DataStructureI/118-pascal_s_triangle.cpp)|`Easy`|`Array` `Dynamic Programming`|
 |5|[36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Link](./DataStructureI/36-valid_sudoku.cpp)|`Medium`|`Matrix` `Hash Table` `Array`|
 |^|[74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/?envType=study-plan&id=data-structure-i)|[Link](./DataStructureI/74-serach_a_2d_matrix.cpp)|`Medium`|`Array` `Matrix` `Binary Search`|
+|6|[387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/?envType=study-plan&id=data-structure-i)|[Link](./DataStructureI/387-first_unique_character_in_a_string.cpp)|`Easy`|`String` `Hash Table` `Counting`|

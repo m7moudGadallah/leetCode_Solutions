@@ -8,7 +8,7 @@ using namespace std;
 
 /** Approach
  * how to know if number of points represent a line?
- *  - simply with getting slopes between each 2 points if they are have the same line then it can represent a line
+ *  - simply with getting slopes between each 2 points if they have the same slope then it can represent a line
  * so we get slope between every 2 points and most frequent slope it's the longest line which have most points
  * 
  * Time complexity: O(N^2)

@@ -17,3 +17,4 @@
 |^|[74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/?envType=study-plan&id=data-structure-i)|[Link](./DataStructureI/74-serach_a_2d_matrix.cpp)|`Medium`|`Array` `Matrix` `Binary Search`|
 |6|[387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/?envType=study-plan&id=data-structure-i)|[Link](./DataStructureI/387-first_unique_character_in_a_string.cpp)|`Easy`|`String` `Hash Table` `Counting`|
 |^|[383. Ransom Note](https://leetcode.com/problems/ransom-note/description/?envType=study-plan&id=data-structure-i)|[Link](./DataStructureI/383-ransom_note.cpp)|`Easy`|`String` `Hash Table` `Counting`|
+|^|[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Link](./DataStructureI/242-valid_anagram.cpp)|`Easy`|`String` `Hash Table` `Sorting`|

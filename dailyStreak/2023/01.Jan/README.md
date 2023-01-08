@@ -8,3 +8,4 @@
 |5/1|[452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)|[Link](./452-minimum_number_of_arrows_to_burst_ballons.cpp)|`Greedy` `Sorting`|
 |6/1|[1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)|[Link](./1833-max_ice_cream_bars.cpp)|`Sorting` `Greedy`|
 |7/1|[134. Gas Station](https://leetcode.com/problems/gas-station/)|[Link](./134-gas_station.cpp)|`Greedy`|
+|8/1|[149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|[Link](./149-max_points_on_a_line.cpp)|`Math` `Hash Table` `Geomertry`|

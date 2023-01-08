@@ -13,3 +13,5 @@
 |^|[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=study-plan&id=data-structure-i)|[Link](./DataStructureI/121-best_time_to_buy_and_sell_stock.cpp)|`Easy`|`Array` `Two Pointers`|
 |4|[566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/?envType=study-plan&id=data-structure-i)|[Link](./DataStructureI/566-reshape_the_matrix.cpp)|`Easy`|`Array` `Matrix` `Simulation`|
 |^|[118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Link](./DataStructureI/118-pascal_s_triangle.cpp)|`Easy`|`Array` `Dynamic Programming`|
+|5|[36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Link](./DataStructureI/36-valid_sudoku.cpp)|`Medium`|`Matrix` `Hash Table` `Array`|
+|^|[74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/?envType=study-plan&id=data-structure-i)|[Link](./DataStructureI/74-serach_a_2d_matrix.cpp)|`Array` `Matrix` `Binary Search`|

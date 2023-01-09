@@ -9,3 +9,4 @@
 |6/1|[1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)|[Link](./1833-max_ice_cream_bars.cpp)|`Sorting` `Greedy`|
 |7/1|[134. Gas Station](https://leetcode.com/problems/gas-station/)|[Link](./134-gas_station.cpp)|`Greedy`|
 |8/1|[149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|[Link](./149-max_points_on_a_line.cpp)|`Math` `Hash Table` `Geomertry`|
+|9/1|[144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Link](./144-binary_tree_preorder_traversal.cpp)|`Tree` `Depth First Search`|

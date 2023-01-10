@@ -10,3 +10,4 @@
 |7/1|[134. Gas Station](https://leetcode.com/problems/gas-station/)|[Link](./134-gas_station.cpp)|`Greedy`|
 |8/1|[149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|[Link](./149-max_points_on_a_line.cpp)|`Math` `Hash Table` `Geomertry`|
 |9/1|[144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Link](./144-binary_tree_preorder_traversal.cpp)|`Tree` `Depth First Search`|
+|10/1|[100. Same Tree](https://leetcode.com/problems/same-tree/)|[Link](./100-same_tree.cpp)|`Tree` `Depth First Search`|

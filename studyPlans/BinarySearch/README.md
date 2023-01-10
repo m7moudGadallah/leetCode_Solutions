@@ -24,3 +24,4 @@
 |9|[1337. The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/description/?envType=study-plan&id=binary-search-i)|[Link](./BinarySearchI/1337-the_k_weakest_rows_in_a_matrix.cpp)|`Easy`|`Array` `Matrix` `MinHeap(priority queue)`|
 |^|[1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)|[Link](./BinarySearchI/1346-check_if_n_and_its_double_exist.cpp)|`Easy`|`Array` `Hash Table`|
 |10|[350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/?envType=study-plan&id=binary-search-i)|[Link](./BinarySearchI/350-intersection_of_two_arrays_II.cpp)|`Easy`|`Array` `Hash Table`|
+|^|[633. Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/?envType=study-plan&id=binary-search-i)|[Link](./BinarySearchI/633-sum_of_square_numbers.cpp)|`Medium`|`Two Pointers`|

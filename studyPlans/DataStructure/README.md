@@ -19,3 +19,4 @@
 |^|[383. Ransom Note](https://leetcode.com/problems/ransom-note/description/?envType=study-plan&id=data-structure-i)|[Link](./DataStructureI/383-ransom_note.cpp)|`Easy`|`String` `Hash Table` `Counting`|
 |^|[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Link](./DataStructureI/242-valid_anagram.cpp)|`Easy`|`String` `Hash Table` `Sorting`|
 |7|[141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/?envType=study-plan&id=data-structure-i)|[Link](./DataStructureI/141-linked_list_cycle.cpp)|`Easy`|`Hash Table` `Linked List`|
+|^|[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/?envType=study-plan&id=data-structure-i)|[Link](./DataStructureI/21-merge_two_sorted_lists.cpp)|`Easy`|`Linked List`|

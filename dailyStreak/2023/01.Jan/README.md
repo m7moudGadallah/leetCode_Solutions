@@ -11,3 +11,4 @@
 |8/1|[149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|[Link](./149-max_points_on_a_line.cpp)|`Math` `Hash Table` `Geomertry`|
 |9/1|[144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Link](./144-binary_tree_preorder_traversal.cpp)|`Tree` `Depth First Search`|
 |10/1|[100. Same Tree](https://leetcode.com/problems/same-tree/)|[Link](./100-same_tree.cpp)|`Tree` `Depth First Search`|
+|11/1|[1443. Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/)|[Link](./1443-minimum_time_to_collect_all_apples_in_a_tree.cpp)|`Graph` `DFS`|

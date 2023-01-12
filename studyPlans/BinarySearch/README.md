@@ -25,3 +25,4 @@
 |^|[1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)|[Link](./BinarySearchI/1346-check_if_n_and_its_double_exist.cpp)|`Easy`|`Array` `Hash Table`|
 |10|[350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/?envType=study-plan&id=binary-search-i)|[Link](./BinarySearchI/350-intersection_of_two_arrays_II.cpp)|`Easy`|`Array` `Hash Table`|
 |^|[633. Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/?envType=study-plan&id=binary-search-i)|[Link](./BinarySearchI/633-sum_of_square_numbers.cpp)|`Medium`|`Two Pointers`|
+|11|[1855. Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/description/?envType=study-plan&id=binary-search-i)|[Link](./BinarySearchI/1855-maximum_distance_between_a_pair_of_values.cpp)|`Medium`|`Two Pointers` `Greedy`|

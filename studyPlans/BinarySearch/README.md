@@ -26,3 +26,4 @@
 |10|[350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/?envType=study-plan&id=binary-search-i)|[Link](./BinarySearchI/350-intersection_of_two_arrays_II.cpp)|`Easy`|`Array` `Hash Table`|
 |^|[633. Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/?envType=study-plan&id=binary-search-i)|[Link](./BinarySearchI/633-sum_of_square_numbers.cpp)|`Medium`|`Two Pointers`|
 |11|[1855. Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/description/?envType=study-plan&id=binary-search-i)|[Link](./BinarySearchI/1855-maximum_distance_between_a_pair_of_values.cpp)|`Medium`|`Two Pointers` `Greedy`|
+|^|[33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/?envType=study-plan&id=binary-search-i)|[Link](./BinarySearchI/33-search_in_rotated_sorted_array.cpp)|`Medium`|`Binary Serach`|

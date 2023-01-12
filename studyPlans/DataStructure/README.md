@@ -24,3 +24,4 @@
 |8|[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/?envType=study-plan&id=data-structure-i)|[Link](./DataStructureI/206-reverse_linked_list.cpp)|`Easy`|`Linked List`|
 |^|[83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/?envType=study-plan&id=data-structure-i)|[Link](./DataStructureI/83-remove_duplicates_from_sorted_list.cpp)|`Easy`|`Linked List`|
 |9|[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Link](./DataStructureI/20-valid_parentheses.cpp)|`Easy`|`String` `Stack`|
+|^|[232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/?envType=study-plan&id=data-structure-i)|[Link](./DataStructureI/232-implement_queue_using_stack.cpp)|`Easy`|`Stack` `Queue` `Design`|

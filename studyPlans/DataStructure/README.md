@@ -26,3 +26,4 @@
 |9|[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Link](./DataStructureI/20-valid_parentheses.cpp)|`Easy`|`String` `Stack`|
 |^|[232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/?envType=study-plan&id=data-structure-i)|[Link](./DataStructureI/232-implement_queue_using_stack.cpp)|`Easy`|`Stack` `Queue` `Design`|
 |10|[144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/?envType=study-plan&id=data-structure-i)|[Link](./DataStructureI/144-binary_tree_preorder_traversal.cpp)|`Easy`|`Tree` `Binary Tree` `Deapth First Search`|
+|^|[94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/?envType=study-plan&id=data-structure-i)|[Link](./DataStructureI/94-binary_tree_inorder_traversal.cpp)|`Easy`|`Tree` `Binary Tree` `Deapth First Search`|

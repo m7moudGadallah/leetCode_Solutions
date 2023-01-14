@@ -13,3 +13,4 @@
 |10/1|[100. Same Tree](https://leetcode.com/problems/same-tree/)|[Link](./100-same_tree.cpp)|`Tree` `Depth First Search`|
 |11/1|[1443. Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/)|[Link](./1443-minimum_time_to_collect_all_apples_in_a_tree.cpp)|`Graph` `DFS`|
 |12/1|[1519. Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/)|[Link](./1519-number_of_nodes_in_the_sub_tree_with_the_same_label.cpp)|`Graph` `DFS` `Hash Table` `Counting`|
+|14/1|[1061. Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/)|[Link](./1061-lexicographically_smallest_equivalent_string.cpp)|`String` `Union Find`|

@@ -15,3 +15,4 @@
 |12/1|[1519. Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/)|[Link](./1519-number_of_nodes_in_the_sub_tree_with_the_same_label.cpp)|`Graph` `DFS` `Hash Table` `Counting`|
 |14/1|[1061. Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/)|[Link](./1061-lexicographically_smallest_equivalent_string.cpp)|`String` `Union Find`|
 |16/1|[57. Insert Interval](https://leetcode.com/problems/insert-interval/)|[Link](./57-insert_interval.cpp)|`Array`|
+|17/1|[926. Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)|[Link](./926-flib_string_to_monotone_increasing.cpp)|`String` `Dynamic Programming`|

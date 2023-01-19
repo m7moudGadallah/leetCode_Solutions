@@ -16,4 +16,4 @@
 |14/1|[1061. Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/)|[Link](./1061-lexicographically_smallest_equivalent_string.cpp)|`String` `Union Find`|
 |16/1|[57. Insert Interval](https://leetcode.com/problems/insert-interval/)|[Link](./57-insert_interval.cpp)|`Array`|
 |17/1|[926. Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)|[Link](./926-flib_string_to_monotone_increasing.cpp)|`String` `Dynamic Programming`|
-|19/1|[974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)|[Link](./974-subarray_sums_divisible_by_k.cpp)|`Array` `Hash Table` `Prefix Sum`|
+|19/1|[974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)|[Link](./974-subarray_sums_divisible_by_k.cpp)|`Array` `Hash Table` `Prefix Sum`| 

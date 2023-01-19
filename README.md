@@ -16,7 +16,7 @@
 ------
 ## Study Plans
 - ***[Programming Skills](./studyPlans/ProgrammingSkills/)***
-- ***[Binary serach](./studyPlans/BinarySearch/)***
+- ***[Binary search](./studyPlans/BinarySearch/)***
 - ***[Data Structure](./studyPlans/DataStructure/)***
 
 -------

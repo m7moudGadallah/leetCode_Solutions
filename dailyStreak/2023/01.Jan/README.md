@@ -18,3 +18,4 @@
 |17/1|[926. Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)|[Link](./926-flib_string_to_monotone_increasing.cpp)|`String` `Dynamic Programming`|
 |19/1|[974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)|[Link](./974-subarray_sums_divisible_by_k.cpp)|`Array` `Hash Table` `Prefix Sum`|
 |20/1|[491. Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/)|[Link](./491-non_decreasing_subsequences.cpp)|`Array` `Backtracking` `Hash Table`|
+|21/1|[93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)|[Link](./93-restore_ip_address.cpp)|`String` `Backtracking`|

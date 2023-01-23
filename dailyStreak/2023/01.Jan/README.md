@@ -19,3 +19,4 @@
 |19/1|[974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)|[Link](./974-subarray_sums_divisible_by_k.cpp)|`Array` `Hash Table` `Prefix Sum`|
 |20/1|[491. Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/)|[Link](./491-non_decreasing_subsequences.cpp)|`Array` `Backtracking` `Hash Table`|
 |21/1|[93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)|[Link](./93-restore_ip_address.cpp)|`String` `Backtracking`|
+|23/1|[997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[Link](./997-find_the_town_judge.cpp)|`Array` `Hash Table` `Graph`|

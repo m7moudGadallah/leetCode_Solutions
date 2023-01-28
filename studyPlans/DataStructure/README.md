@@ -1,8 +1,9 @@
 # Data Structure
+
 - leet code study plan
 
-
 ## Data Structure I
+
 |Day|Problem|Solution|Difficulty|topic|
 |---|-------|--------|----------|-----|
 |1|[217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Link](./DataStructureI/217-contains_duplicate.cpp)|`Easy`|`Hash Table` `Sorting`|
@@ -28,6 +29,6 @@
 |10|[144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/?envType=study-plan&id=data-structure-i)|[Link](./DataStructureI/144-binary_tree_preorder_traversal.cpp)|`Easy`|`Tree` `Binary Tree` `Deapth First Search`|
 |^|[94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/?envType=study-plan&id=data-structure-i)|[Link](./DataStructureI/94-binary_tree_inorder_traversal.cpp)|`Easy`|`Tree` `Binary Tree` `Deapth First Search`|
 |^|[145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/?envType=study-plan&id=data-structure-i)|[Link](./DataStructureI/145-binary_tree_postorder_traversal.cpp)|`Easy`|`Tree` `Binary Tree` `Deapth First Search`|
-|11|[]()|[Link]()|`Medium`|`Tree` `BFS`|
+|11|[102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/?envType=study-plan&id=data-structure-i)|[Link](./DataStructureI/102-Binary_tree_level_order_Traversal.cpp)|`Medium`|`Tree` `BFS`|
 |^|[104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/?envType=study-plan&id=data-structure-i)|[Link](./DataStructureI/104-maximum_depth_of_binary_tree.cpp)|`Easy`|`Tree`| `DFS`|
 |^|[101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/?envType=study-plan&id=data-structure-i)|[Link](./DataStructureI/101-symmetric_tree.cpp)|`Easy`|`Tree` `DFS`|

@@ -32,3 +32,4 @@
 |11|[102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/?envType=study-plan&id=data-structure-i)|[Link](./DataStructureI/102-Binary_tree_level_order_Traversal.cpp)|`Medium`|`Tree` `BFS`|
 |^|[104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/?envType=study-plan&id=data-structure-i)|[Link](./DataStructureI/104-maximum_depth_of_binary_tree.cpp)|`Easy`|`Tree`| `DFS`|
 |^|[101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/?envType=study-plan&id=data-structure-i)|[Link](./DataStructureI/101-symmetric_tree.cpp)|`Easy`|`Tree` `DFS`|
+|12|[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Link](./DataStructureI/226-Invert_Binary_Tree.cpp)|`Easy`|`Binary Tree` `DFS`|

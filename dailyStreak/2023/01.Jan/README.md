@@ -21,3 +21,4 @@
 |21/1|[93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)|[Link](./93-restore_ip_address.cpp)|`String` `Backtracking`|
 |23/1|[997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[Link](./997-find_the_town_judge.cpp)|`Array` `Hash Table` `Graph`|
 |28/1|[352. Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)|[Link](./352-data_stream_as_disjoint_intervals.cpp)|`Design` `Ordered Set` `Binary Search`|
+|29/1|[460. LFU Cache](https://leetcode.com/problems/lfu-cache/)|[Link](./460-LFU_Cache.cpp)|`Design` `Hash Table` `Doubly-Linked List`|

@@ -34,3 +34,4 @@
 |^|[101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/?envType=study-plan&id=data-structure-i)|[Link](./DataStructureI/101-symmetric_tree.cpp)|`Easy`|`Tree` `DFS`|
 |12|[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Link](./DataStructureI/226-Invert_Binary_Tree.cpp)|`Easy`|`Binary Tree` `DFS`|
 |^|[112. Path Sum](https://leetcode.com/problems/path-sum/?envType=study-plan&id=data-structure-i)|[Link](./DataStructureI/112-path_sum.cpp)|`Easy`|`Binary Tree` `DFS`|
+|13|[700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Link](./DataStructureI/700-serach_in_binary_serach_tree.cpp)|`Easy`|`Binary Search Tree`|

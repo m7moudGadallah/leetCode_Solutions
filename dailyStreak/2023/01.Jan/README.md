@@ -22,3 +22,4 @@
 |23/1|[997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[Link](./997-find_the_town_judge.cpp)|`Array` `Hash Table` `Graph`|
 |28/1|[352. Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)|[Link](./352-data_stream_as_disjoint_intervals.cpp)|`Design` `Ordered Set` `Binary Search`|
 |29/1|[460. LFU Cache](https://leetcode.com/problems/lfu-cache/)|[Link](./460-LFU_Cache.cpp)|`Design` `Hash Table` `Doubly-Linked List`|
+|30/1|[1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[Link](./1137-n_th_tribonacci_number.cpp)|`Dynamic Programming` `Memoization`|

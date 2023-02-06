@@ -7,3 +7,4 @@
 |03/02|[6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[Link](./6-Zigzag_Conversion.cpp)|`String`|
 |04/02|[567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)|[Link](./567-permutation_in_string.cpp)|`String` `Hash Map` `Two Pointers`|
 |05/02|[438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Link](./438-find_all_anagrams_in_a_string.cpp)|`String` `Hash Table` `Sliding Window`|
+|06/02|[1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[Link](./1470-shuffle_the_array.cpp)|`Array` `Two Pointers`|

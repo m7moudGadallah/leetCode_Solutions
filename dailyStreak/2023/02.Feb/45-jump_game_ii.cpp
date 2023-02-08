@@ -14,6 +14,8 @@ public:
         for (int i = 0; i < n - 1; ++i) {
             r = max(r, nums[i]+i);
 
+            if (r >= n-1) return ++cnt;
+
             if (i == l) {
                 l = r;
                 ++cnt;

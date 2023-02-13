@@ -11,3 +11,4 @@
 |07/02|[904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)|[Link](./904-fruit_into_baskets.cpp)|`Array` `Hash Table` `Sliding Window`|
 |08/02|[45. Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Link](./45-jump_game_ii.cpp)|`Array` `Greedy`|
 |11/02|[1129. Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/)|[Link](./1129-shortest_path_with_alternating_colors.cpp)|`Graph` `BFS`|
+|13/02|[1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)|[Link](./1523-count_odd_numbers_in_an_interval_range.cpp)|`Math`|

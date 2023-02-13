@@ -47,3 +47,4 @@
 |Day|Problem|Solution|Difficulty|topic|
 |---|-------|--------|----------|-----|
 |01|[896. Monotonic Array](https://leetcode.com/problems/monotonic-array/description/?envType=study-plan&id=programming-skills-ii)|[Link](./ProgrammingSkillsII/896-monotonic_array.cpp)|`Easy`|`Array`|
+|^|[28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/?envType=study-plan&id=programming-skills-ii)|[Link](./ProgrammingSkillsII/28-find_the_index_of_the_first_occurrence_in_a_string.cpp)|`Medium`|`String` `Two Pointers`|

@@ -1,6 +1,6 @@
 /**
- *  Author: Mahmoud Gadallah
- *  LeetCode Account: https://leetcode.com/m7moudGadallah/
+ *  @author Mahmoud Gadallah
+ *  @link LeetCode Account: https://leetcode.com/m7moudGadallah/
 */
 #include<bits/stdc++.h>
 
@@ -25,7 +25,7 @@ class Solution {
 private:
     int mn = 1'000'000'000;
     TreeNode* child = nullptr;
-    
+
     /**
      * @brief inordertraversal
      * 

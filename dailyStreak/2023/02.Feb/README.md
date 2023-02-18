@@ -16,3 +16,4 @@
 |15/02|[989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)|[Link](./989-add_to_array_form_of_integer.cpp)|`Array` `Math`|
 |16/02|[104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Link](./104-maximum_depth_of_binary_tree.cpp)|`Binary Tree` `DFS`|
 |17/02|[783. Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|[Link](./783-minimum_distance_between_bst_nodes.cpp)|`Binary Search Tree` `DFS`|
+|18/02|[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Link](./226-invert_binary_tree.cpp)|`Binary Tree` `DFS`|

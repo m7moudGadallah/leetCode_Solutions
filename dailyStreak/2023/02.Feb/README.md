@@ -18,3 +18,4 @@
 |17/02|[783. Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|[Link](./783-minimum_distance_between_bst_nodes.cpp)|`Binary Search Tree` `DFS`|
 |18/02|[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Link](./226-invert_binary_tree.cpp)|`Binary Tree` `DFS`|
 |19/02|[103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[Link](./103-binary_tree_zigzag_level_order_traversal.cpp)|`Binary Tree` `BFS`|
+|20/02|[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Link](./35-serach_insert_position.cpp)|`Array` `Binary Search`|

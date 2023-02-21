@@ -19,3 +19,4 @@
 |18/02|[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Link](./226-invert_binary_tree.cpp)|`Binary Tree` `DFS`|
 |19/02|[103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[Link](./103-binary_tree_zigzag_level_order_traversal.cpp)|`Binary Tree` `BFS`|
 |20/02|[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Link](./35-serach_insert_position.cpp)|`Array` `Binary Search`|
+|21/02|[540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[Link](./540-single_element_in_a_sorted_array.cpp)|`Array` `Binary Search`|

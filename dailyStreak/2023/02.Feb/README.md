@@ -21,3 +21,4 @@
 |20/02|[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Link](./35-serach_insert_position.cpp)|`Array` `Binary Search`|
 |21/02|[540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[Link](./540-single_element_in_a_sorted_array.cpp)|`Array` `Binary Search`|
 |22/02|[1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)|[Link](./1011-capacity_to_ship_packages_within_d_days.cpp)|`Array` `Binary Search`|
+|23/02|[502. IPO](https://leetcode.com/problems/ipo/)|[Link](./502-IPO.cpp)|`Array` `Greedy` `Sorting` `Heap (Priority Queue)`|

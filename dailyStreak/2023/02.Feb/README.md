@@ -22,3 +22,4 @@
 |21/02|[540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[Link](./540-single_element_in_a_sorted_array.cpp)|`Array` `Binary Search`|
 |22/02|[1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)|[Link](./1011-capacity_to_ship_packages_within_d_days.cpp)|`Array` `Binary Search`|
 |23/02|[502. IPO](https://leetcode.com/problems/ipo/)|[Link](./502-IPO.cpp)|`Array` `Greedy` `Sorting` `Heap (Priority Queue)`|
+|25/02|[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Link](./121-best_time_to_buy_and_shell_stock.cpp)|`Array` `Two Pointers`|

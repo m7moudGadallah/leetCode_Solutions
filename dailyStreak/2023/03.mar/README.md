@@ -8,3 +8,4 @@
 |06/03|[1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)|[Link](./1539-kth_missing_positive_number.cpp)|`Array` `Binary Search`|
 |07/03|[2187. Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/)|[Link](./2187-minimum_time_to_complete_trips.cpp)|`Array` `Binary Search`|
 |09/03|[142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Link](./142-linked_list_cycle_II.cpp)|`Linked List` `Two Pointers`|
+|10/03|[382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)|[Link](./382-linked_list_random_node.cpp)|`Linked List` `Randomized`|

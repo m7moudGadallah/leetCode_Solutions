@@ -9,3 +9,4 @@
 |07/03|[2187. Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/)|[Link](./2187-minimum_time_to_complete_trips.cpp)|`Array` `Binary Search`|
 |09/03|[142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Link](./142-linked_list_cycle_II.cpp)|`Linked List` `Two Pointers`|
 |10/03|[382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)|[Link](./382-linked_list_random_node.cpp)|`Linked List` `Randomized`|
+|11/03|[109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)|[Link](./109-convert_sorted_list_to_binary_serach_tree.cpp)|`Linked List` `Divide and Conquer` `Binary Serach Tree`|

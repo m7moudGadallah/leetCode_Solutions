@@ -11,3 +11,4 @@
 |10/03|[382. Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)|[Link](./382-linked_list_random_node.cpp)|`Linked List` `Randomized`|
 |11/03|[109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)|[Link](./109-convert_sorted_list_to_binary_serach_tree.cpp)|`Linked List` `Divide and Conquer` `Binary Serach Tree`|
 |12/03|[23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Link](./23-merge_k_sorted_lists.cpp)|`Linked List` `Heap (Priority Queue)` `Divide and Conquer`|  
+|13/03|[101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Link](./101-symmetric_tree.cpp)|`Binary Tree` `DFS`|

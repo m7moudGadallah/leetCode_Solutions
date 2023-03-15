@@ -13,4 +13,4 @@
 |12/03|[23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Link](./23-merge_k_sorted_lists.cpp)|`Linked List` `Heap (Priority Queue)` `Divide and Conquer`|  
 |13/03|[101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Link](./101-symmetric_tree.cpp)|`Binary Tree` `DFS`|
 |14/03|[129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Link](./129-sum_root_to_leaf_numbers.cpp)|`Binary Tree` `DFS`|
-|15/03|[958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)|[Link](./958-check_completeness_of_a_binary_tree.cpp)|`Binary Tree` `DFS`|
+|15/03|[958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)|[Link](./958-check_completeness_of_a_binary_tree.cpp)|`Binary Tree` `BFS`|

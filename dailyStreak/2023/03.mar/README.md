@@ -15,3 +15,4 @@
 |14/03|[129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Link](./129-sum_root_to_leaf_numbers.cpp)|`Binary Tree` `DFS`|
 |15/03|[958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)|[Link](./958-check_completeness_of_a_binary_tree.cpp)|`Binary Tree` `BFS`|
 |16/03|[106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[Linik](./106-construct_binary_tree_from_inorder_and_postorder_traversal.cpp)|`Binary Tree` `Hash Table` `Divide and Conquer`|
+|18/03|[1472. Design Browser History](https://leetcode.com/problems/design-browser-history/)|[Link](./1472-design_browser_history.cpp)|`Array` `Design` `Stack` `Data Stream`|

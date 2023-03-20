@@ -16,3 +16,4 @@
 |15/03|[958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)|[Link](./958-check_completeness_of_a_binary_tree.cpp)|`Binary Tree` `BFS`|
 |16/03|[106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[Linik](./106-construct_binary_tree_from_inorder_and_postorder_traversal.cpp)|`Binary Tree` `Hash Table` `Divide and Conquer`|
 |18/03|[1472. Design Browser History](https://leetcode.com/problems/design-browser-history/)|[Link](./1472-design_browser_history.cpp)|`Array` `Design` `Stack` `Data Stream`|
+|20/03|[605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Link](./605-can_place_flowers.cpp)|`Array` `Greedy`|

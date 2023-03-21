@@ -17,3 +17,4 @@
 |16/03|[106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[Linik](./106-construct_binary_tree_from_inorder_and_postorder_traversal.cpp)|`Binary Tree` `Hash Table` `Divide and Conquer`|
 |18/03|[1472. Design Browser History](https://leetcode.com/problems/design-browser-history/)|[Link](./1472-design_browser_history.cpp)|`Array` `Design` `Stack` `Data Stream`|
 |20/03|[605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Link](./605-can_place_flowers.cpp)|`Array` `Greedy`|
+|21/03|[2348. Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/)|[Link](./2348-number_of_zeroes_filled_subarrays.cpp)|`Array` `Math`|

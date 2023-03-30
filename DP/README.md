@@ -12,3 +12,4 @@
 |[1025. Divisor Game](https://leetcode.com/problems/divisor-game/)|[Link](./sol/1025-divisor_game.cpp)|
 |[1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[Link](./sol/1137-n_th_tribonacci_number.cpp)|
 |[746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Link](./sol/746-min_cost_climbing_stairs.cpp)|
+|[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Link](./sol/121-best_time_to_buy_and_sell_stock.cpp)|

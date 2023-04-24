@@ -7,3 +7,4 @@
 |03/04|[881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[Link](./881-boats_to_save_people.cpp)|`Array` `Sorting` `Greedy` `Two Pointers`|
 |04/04|[2405. Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/)|[Link](./2405-optimal_partition_of_string.cpp)|`Array` `Greedy` `Hash Table`|
 |05/04|[2439. Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/)|[Link](./2439-minimize_maximum_of_array.cpp)|`Array` `Prefix Sum` `Binary Search` `Greedy`|
+|24/04|[1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weigh)|[Link](./1046-last_stone_weigth.cpp)|`Array` `Heap(Priority Queue)`|

@@ -9,3 +9,4 @@
 |05/04|[2439. Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/)|[Link](./2439-minimize_maximum_of_array.cpp)|`Array` `Prefix Sum` `Binary Search` `Greedy`|
 |24/04|[1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weigh)|[Link](./1046-last_stone_weigth.cpp)|`Array` `Heap(Priority Queue)`|
 |25/04|[2336. Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/)|[Link](./2336-smallest_number_in_infinite_set.cpp)|`Design` `Heap(Priority Queue)` `Hash Table`|
+|26/04|[258. Add Digits](https://leetcode.com/problems/add-digits/)|[Link](./258-add_digits.cpp)|`Math` `Simulation` `Number Theory`|
